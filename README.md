@@ -14,7 +14,7 @@ pip install resql
 ```python
 import resql
 
-database = resql.PyDatabase("mydb.db")
+database = resql.ReSql("mydb.db")
 # default is in :memory:
 ```
 

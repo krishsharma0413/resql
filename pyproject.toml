@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "resql"
-version = "0.1.0"
+version = "0.1.1"
 description = "A beginner friendly database"
 authors = ["ResetXD <resetwastakenwastaken@gmail.com>"]
 readme = "README.md"
+repository = "https://github.com/ResetXD/resql"
+homepage = "https://github.com/ResetXD/resql"
 
 [tool.poetry.dependencies]
 python = "^3.9"
