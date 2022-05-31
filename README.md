@@ -1,4 +1,4 @@
-# <p align="center"> resql: Built for Beginners </p>
+# <p align="center"> resql: Database For Beginners </p>
 
 ## Quick Examples
 <br>
@@ -98,6 +98,8 @@ database.delete("key")
 # value
 ```
 
+
+thanks to [avonryle#2022](https://github.com/avonryle) for letting me make the python version of [ByteDatabase](https://github.com/cloudteamdev/ByteDatabase)
 
 
 
