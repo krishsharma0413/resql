@@ -1,5 +1,7 @@
 # <p align="center"> resql: Database For Beginners </p>
 
+[![Downloads](https://pepy.tech/badge/resql)](https://pepy.tech/project/resql)
+
 ## Quick Examples
 <br>
 
